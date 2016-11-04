@@ -1,2 +1,3 @@
-# vim-quickrun
-Run commands quickly.
+## quickrun
+A plugin designed to make developers more productive.
+

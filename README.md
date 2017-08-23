@@ -5,7 +5,7 @@ It makes compiling easier by invoking ```:QuickRun``` command which compiles the
 This ensures that developers dont have to leave vim just for the sake of compiling their code. 
 
 The plugin has support for various languages including :
-awk 
+- awk 
 - bash 
 - c 
 - clojure 
